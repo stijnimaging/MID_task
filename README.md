@@ -5,3 +5,5 @@ Task runs in E-Prime and generates .edat2, .xml and .txt files.
 Note that the software runs on a Windows machine.
 
 Requires dos2mac or dos2unix conversion. 
+
+One example dataset is located in the folder DATA/
