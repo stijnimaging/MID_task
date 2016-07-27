@@ -1,4 +1,4 @@
-#Data format
+# Data format
 Several data formats are provided:
 - .txt = raw dos format text file
 - .txt.mac = dos2mac converted text file
